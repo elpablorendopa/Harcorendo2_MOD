@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "# #",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "harcorendo:hierro_recocido"
+    }
+  },
+  "result": {
+    "item": "harcorendo:plato"
+  }
+}

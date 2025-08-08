@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "harcorendo:acero_denso_ingot"
+    },
+    "B": {
+      "item": "harcorendo:hierro_recocido_block"
+    },
+    "N": {
+      "item": "harcorendo:core"
+    }
+  },
+  "pattern": [
+    " AN",
+    "ABA",
+    "BA "
+  ],
+  "result": {
+    "item": "harcorendo:chisel"
+  },
+  "show_notification": true
+}

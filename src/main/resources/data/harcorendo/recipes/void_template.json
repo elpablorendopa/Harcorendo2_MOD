@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:disc_fragment_5"
+    },
+    "B": {
+      "item": "harcorendo:acero_denso_ingot"
+    }
+  },
+  "pattern": [
+    "ABA",
+    "B B",
+    "ABA"
+  ],
+  "result": {
+    "item": "harcorendo:void_template",
+    "count": 2
+  },
+  "show_notification": true
+}

@@ -1,0 +1,13 @@
+{
+  "values": [
+    "harcorendo:acero_denso_block",
+    "harcorendo:hierro_recocido_block",
+    "harcorendo:hierro_liso",
+    "harcorendo:void_template",
+    "harcorendo:cookie_totem",
+    "minecraft:netherite_block",
+    "minecraft:diamond_block",
+    "minecraft:wither_skeleton_skull",
+    "minecraft:enchanted_golden_apple"
+  ]
+}

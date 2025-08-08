@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "harcorendo:acero_denso_block"
+    },
+    "A": {
+      "item": "harcorendo:acero_denso_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "H": {
+      "item": "harcorendo:hierro_recocido"
+    }
+  },
+  "pattern": [
+    "AHA",
+    "N#N",
+    "AHA"
+  ],
+  "result": {
+    "item": "harcorendo:core"
+  },
+  "show_notification": true
+}

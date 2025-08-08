@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "harcorendo:teken_rojo"
+  },
+  "base": {
+    "item": "minecraft:netherite_leggings"
+  },
+  "result": {
+    "item": "harcorendo:plato_de_resureccion"
+  },
+  "template": {
+    "item": "harcorendo:acero_template"
+  }
+}

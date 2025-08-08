@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "harcorendo:hierro_recocido"
+    },
+    "C": {
+      "item": "harcorendo:cobre_recocido_block"
+    }
+  },
+  "pattern": [
+    "#C#",
+    "C#C",
+    "#C#"
+  ],
+  "result": {
+    "item": "harcorendo:acero_denso_ingot",
+    "count": 4
+  },
+  "show_notification": true
+}

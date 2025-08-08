@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "harcorendo:teken"
+    },
+    "C": {
+      "item": "harcorendo:cobre_recocido_block"
+    }
+  },
+  "pattern": [
+    "###",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "item": "harcorendo:red_teken"
+  },
+  "show_notification": true
+}

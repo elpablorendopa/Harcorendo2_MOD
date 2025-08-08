@@ -1,0 +1,9 @@
+{
+  "furryfacto":{
+    "subtitles": "sounds.harcorendo.furryfacto",
+    "sounds": [
+      "harcorendo:furryfacto_1",
+      "harcorendo:furryfacto_2"
+    ]
+  }
+}

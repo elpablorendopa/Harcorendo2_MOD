@@ -1,0 +1,46 @@
+{
+  //items
+  "item.harcorendo.teken": "Teken Verde",
+  "item.harcorendo.plato": "Plato",
+  "item.harcorendo.plato_de_resureccion": "Plato De Resureccion",
+  "item.harcorendo.core": "Nucleo de Acero Denso",
+  "item.harcorendo.red_teken": "Teken Rojo",
+  "item.harcorendo.void_template": "Plantilla Vacia",
+  "item.harcorendo.acero_template": "Plantilla para armadura de Acero Denso",
+  "item.harcorendo.acero_denso_ingot": "Lingote de Acero Denso",
+  "item.harcorendo.cobre_recocido": "Lingote de Cobre recocido",
+  "item.harcorendo.hierro_recocido": "Lingote de Hierro recocido",
+  "item.harcorendo.bat_ala": "Ala de murcielago",
+  "item.harcorendo.cookie_totem": "Totem de Galleta",
+  "item.harcorendo.soul": "Alama de Jugador",
+  "item.harcorendo.chisel": "Chisel",
+  "item.harcorendo.carmesi_sword": "Espada Carmesi",
+  "item.harcorendo.carmesi_picaxe": "Pico Carnicero",
+
+
+  //bloques
+  "block.harcorendo.acero_denso_block": "Bloque de Acero Denso",
+  "block.harcorendo.cobre_recocido_block": "Bloque de Cobre Recocido",
+  "block.harcorendo.hierro_recocido_block": "Bloque de Hierro Recocido",
+  "block.harcorendo.hierro_liso": "Bloque de Hierro Recocido Liso",
+  "block.harcorendo.cobre_liso": "Bloque de Cobre Recocido Liso",
+  "block.harcorendo.super_block": "Bloque Combinado",
+
+  //tootips
+  "tooltip.harcorendo.teken": "Moneda base de Harcorendo. Tiene un sabor a té amargo.",
+  "tooltip.harcorendo.plato_de_resureccion": "Usalo para revivir a un jugador caido a cambio de tu alma. (Se puede cambiar por un alma en el Spawn)",
+  "tooltip.harcorendo.core": "El material mas denso de la tierra. Al llevarlo eres lento y debil.",
+  "tooltip.harcorendo.red_teken": "Version mejorada del Teken, un poco mas oxidada. (Se puede descraftear en el spawn)",
+  "tooltip.harcorendo.acero_template": "Te permitira mejorar tu armadura a la armadura de Acero Denso.",
+  "tooltip.harcorendo.cookie_totem": "No funciona como totem se puede consumir y dara los efectos de un totem.",
+  "tooltip.harcorendo.chisel": "Al usarlo en ciertos bloques los modifica",
+  "tooltip.harcorendo.soul": "Soy un Alma.. Buuuuuuuuu..",
+  "tooltip.harcorendo.carmesi_sword": "... Te vi",
+  "tooltip.harcorendo.carmesi_picaxe": "Se puede cocinar... No lo intentes",
+
+  //Subtitles
+  "sounds.harcorendo.furryfacto": "Puto si lees",
+
+  //tabs
+  "creativetab.harcorendo.teken_items": "Items Harcorendo 2"
+}

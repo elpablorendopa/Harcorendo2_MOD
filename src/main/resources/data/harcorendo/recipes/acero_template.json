@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "harcorendo:cobre_recocido_block"
+    },
+    "B": {
+      "item": "harcorendo:acero_denso_block"
+    },
+    "A": {
+      "item": "harcorendo:acero_denso_ingot"
+    },
+    "D": {
+      "item": "harcorendo:core"
+    },
+    "V": {
+      "item": "harcorendo:void_template"
+    },
+    "H": {
+      "item": "minecraft:honeycomb_block"
+    },
+    "M": {
+      "item": "harcorendo:hierro_recocido_block"
+    },
+    "T": {
+      "item": "harcorendo:teken"
+    }
+  },
+  "pattern": [
+    "HBA",
+    "TVT",
+    "MDC"
+  ],
+  "result": {
+    "item": "harcorendo:acero_template"
+  },
+  "show_notification": true
+}
